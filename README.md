@@ -9,8 +9,6 @@ The application validates input data, applies business rules, calculates NCF, ch
 - SAFIYA FATIMA
 - Section ECM B
 
-- Python 3.10+
-- pytest
 
 ## Requirements
 

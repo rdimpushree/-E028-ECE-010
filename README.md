@@ -4,6 +4,14 @@ A command-line Python application that calculates monthly Cable TV/DTH bills bas
 
 The application validates input data, applies business rules, calculates NCF, channel charges, tenure discounts and GST, and generates itemized billing reports in CSV format.
 
+## Team
+- R DIMPUSHREE 
+- SAFIYA FATIMA
+- Section ECM B
+
+- Python 3.10+
+- pytest
+
 ## Requirements
 
 - Python 3.10+

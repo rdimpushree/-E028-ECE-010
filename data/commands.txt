@@ -1,0 +1,4 @@
+LOAD_CHANNELS|channels.csv
+LOAD_BOUQUETS|bouquets.csv
+LOAD_SUBSCRIBERS|subscribers.csv
+BILL_ALL|2026-10
